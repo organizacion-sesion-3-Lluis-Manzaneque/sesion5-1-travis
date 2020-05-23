@@ -14,3 +14,6 @@ composer install
 ``` bash
 composer test
 ```
+
+# status Image
+[![Build Status](https://travis-ci.com/organizacion-sesion-3-Lluis-Manzaneque/sesion5-1-travis.svg?branch=master)](https://travis-ci.com/organizacion-sesion-3-Lluis-Manzaneque/sesion5-1-travis)
